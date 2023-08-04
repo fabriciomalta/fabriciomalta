@@ -6,10 +6,9 @@
 
 - 🔭 I’m currently working on WebDevelopment Projects using PHP (Laravel 😆).
 - 🌱 I’m currently learning new Web Developments technologies (such as React, Electron & NestJs).
-- 🏢 I'm currently studying Computer Engineering (Bachelor) at IFSP Campus Birigui, São Paulo. 
-- 📚 Formation forecast Dec/2021.
+- 🏢 I'm currently Master Degree student at UFSCar - Federal University of São Carlos. 
+- 📚 Formation forecast Dec/2024.
 - 💬 Ask me about PHP & Laravel 😆.
 - 📫 How to reach me: feel free to send me a email, fabricio.malta@outlook.com
-- 😄 Pronouns: Malta Dev
-- ⚡ Fun fact: I like to run approximately 8km on intermittent days, and in most of those runs, i find solutions for compilation error.
+- ⚡ Fun fact: I like to run approximately 8km on intermittent days, and in most of those runs, i find solutions for compilation error (😆).
 
